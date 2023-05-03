@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.seguroviagem.srv.br/">
-    <img src="../assets/logo.svg" alt="Real logo" height="100">
+    <img src="./assets/logo.svg" alt="Real logo" height="100">
   </a>
 </p>
 
