@@ -9,5 +9,3 @@
 <p align="center">
   O primeiro comparador de Seguro Viagem do Brasil!
 </p>
-
-----
