@@ -1,11 +1,5 @@
-<h1 align="center">Real Seguro Viagem 💜</h1><br/>
+# .github
 
-<p align="center">
-  <a href="https://www.seguroviagem.srv.br/">
-    <img src="https://raw.githubusercontent.com/realseguroviagem/.github/main/assets/logo.svg" alt="Real logo" height="100">
-  </a>
-</p>
+Perfil público da organização [Real Seguro Viagem](https://github.com/realseguroviagem). O conteúdo exibido fica em [`profile/README.md`](profile/README.md).
 
-<p align="center">
-  O primeiro comparador de Seguro Viagem do Brasil!
-</p>
+O painel interno, visível só para membros, fica no repositório `.github-private`.
