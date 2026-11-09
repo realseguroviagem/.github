@@ -1,0 +1,21 @@
+name: Melhoria
+description: Sugestão de funcionalidade ou ajuste.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qual problema isso resolve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta
+      description: Como deveria funcionar.
+    validations:
+      required: true
+  - type: input
+    id: tarefa
+    attributes:
+      label: Tarefa no ClickUp
