@@ -1,24 +1,17 @@
-### Tarefa
+Tarefa: <!-- link da tarefa no ClickUp -->
 
-Link da tarefa no ClickUp.
+### Contexto
 
-### Descrição
+<!-- O problema ou o motivo da mudança, em uma ou duas frases. -->
 
-O que este PR faz e por quê.
-
-### O que foi feito?
+### O que muda
 
 - 
 
-### Screenshots (se aplicável)
+### Como testar
 
----
+<!-- Testes rodados e passos para validar. Prints, se a mudança for visual. -->
 
-### Checklist
+### Depois do merge
 
-- [ ] Os testes passaram localmente;
-- [ ] Atualizei a documentação (_se necessário_);
-- [ ] Commits, branch e PR seguem as [diretrizes de estilo](https://app.clickup.com/3107481/v/dc/2yumt-2783/2yumt-99853);
-- [ ] Não há conflitos com a branch principal;
-- [ ] Pedi revisão de ao menos uma pessoa;
-- [ ] Revisei meu próprio código antes de enviar.
+<!-- Migração, variável, configuração ou validação em produção. Apague a seção se não houver. -->
